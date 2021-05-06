@@ -1,5 +1,5 @@
 body {
-  background-image: url(/images/bg-pattern-top.svg);
+  background-image: url(images/bg-pattern-top.svg);
   background-color: hsl(185, 75%, 39%);
   font-family: "Kumbh Sans", sans-serif;
   font-size: 18px;
@@ -15,7 +15,7 @@ body {
 }
 
 .card-bg {
-  background-image: url(/images/bg-pattern-card.svg);
+  background-image: url(images/bg-pattern-card.svg);
   background-size: cover;
   height: 150px;
   border-top-left-radius: 10px;
